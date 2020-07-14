@@ -4,6 +4,7 @@
     "description": "This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.8.",
     "main": "server.js",
     "dependencies": {
+      "express": "^4.17.1"  
     },
     "devDependencies": {},
     "scripts": {
