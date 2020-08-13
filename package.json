@@ -1,0 +1,20 @@
+{
+  "name": "clever-mee",
+  "version": "1.0.0",
+  "description": "CleverMee",
+  "main": "server.js",
+  "dependencies": {
+    "rxjs": "~6.4.0",
+    "ts-loader": "^6.2.1",
+    "tslib": "^1.10.0",
+    "zone.js": "~0.9.1",
+	"express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
